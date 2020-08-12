@@ -32,7 +32,7 @@ The following resources would be used through out the 100 days    :
 
 ## Day 3 : 12-08-2020
 
-**Today's Progress** : Working with Text
+**Today's Progress** : Working with Text, making Choices, A Modular Approach to Program Organization
 
 
 
