@@ -30,7 +30,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Designing and Using Functions
 
+## Day 3 : 12-08-2020
 
+**Today's Progress** : Working with Text
 
 
 
