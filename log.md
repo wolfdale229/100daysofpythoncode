@@ -34,7 +34,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Working with Text, making Choices, A Modular Approach to Program Organization
 
+## Day 4 : 13-08-2020
 
+**Today's Progress** : Using Methods
 
 
 
