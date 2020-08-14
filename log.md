@@ -38,6 +38,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Using Methods
 
+## Day 5 : 14-08-2020
+
+**Today's PRogress** : Storing Collections of Data Using Lists
 
 
 
