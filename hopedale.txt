@@ -3,10 +3,10 @@ Coloured fox fur production, HOPEDALE, Labrador, 1834-1842
 #Table 17, p.265--266
 	22
 	29
-	2
+	-
 	16
 	12
 	35
 	8
 	83
-	166
+	-
