@@ -40,10 +40,15 @@ The following resources would be used through out the 100 days    :
 
 ## Day 5 : 14-08-2020
 
-**Today's PRogress** : Storing Collections of Data Using Lists
+**Today's Progress** : Storing Collections of Data Using Lists
 
+## Day 6 : 16-08-2020
 
+**Today's Progress** : Reading and Writing Files
 
+## Day 7 : 17-08-2020
+
+**Today's Progress** : Algorithms for processing data in files, chapter exercises, Storing Data Using Other Collection Types
 
 
 
