@@ -50,8 +50,12 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Algorithms for processing data in files, chapter exercises, Storing Data Using Other Collection Types
 
+## Day 8 : 18-08-2020
 
+**Today's Progress** : Dictionaries in python
 
+## Day 9 : 19-08-2020
 
+**Today's Progress** : Chapter 11 exercises
 
 
