@@ -58,4 +58,16 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Chapter 11 exercises
 
+## Day 10 : 20-08-2020
+
+**Today's Progress** : Designing Algorithms
+
+
+
+
+
+
+
+
+
 
