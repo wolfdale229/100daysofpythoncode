@@ -62,6 +62,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Designing Algorithms
 
+## Day 11 : 21-08-2020
+
+**Today's Progress** : Searching and Sorting
 
 
 
