@@ -66,7 +66,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Searching and Sorting
 
+## Day 12 : 22-08-2020
 
+**Today's Progress** : Object-Oriented Programming
 
 
 
