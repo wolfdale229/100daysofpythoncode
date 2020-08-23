@@ -70,7 +70,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Object-Oriented Programming
 
+## Day 13 : 23-08-2020
 
+**Today's Progress** : Exercises on OOP
 
 
 
