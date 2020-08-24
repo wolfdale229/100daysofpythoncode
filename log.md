@@ -74,7 +74,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Exercises on OOP
 
+## Day 14 : 24-08-2020
 
+**Today's Progress** : Testing and debugging
 
 
 
