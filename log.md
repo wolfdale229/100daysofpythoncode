@@ -80,5 +80,9 @@ The following resources would be used through out the 100 days    :
 
 ## Day 15 : 25-08-2020
 
-**Today's Progress** : Testing and debugging
+**Today's Progress** : Testing and debugging (Did not fully understand testing, to be revisited)
+
+## Day 16 : 26-08-2020
+
+**Today's Progress** : Creating Graphical User Interfaces
 
