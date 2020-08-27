@@ -86,3 +86,7 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Creating Graphical User Interfaces
 
+## Day 17 : 27-08-2020
+
+**Today's Progress** : Databases, using sqlite3
+
