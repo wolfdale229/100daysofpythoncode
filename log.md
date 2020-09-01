@@ -93,3 +93,17 @@ The following resources would be used through out the 100 days    :
 ## Day 18 : 28-08-2020
 
 **Today's Progress** : joining tables together using (JOIN INNER). aggregations, and chapter exercises
+
+** End of book one, next learning about oop with python fully**
+
+## Day 19 : 29-08-2020
+
+**Today's Progress** : Object-Oriented Design, python exercises.
+
+## Day 20 : 30-08-2020
+
+**Today's Progress** : learnt about classes, built a notebook app using OOP, python exercises
+
+## Day 21 : 1-08-2020
+
+**Today's Progress** : Collection Data Types
