@@ -116,7 +116,9 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Built a Todo apllication using classes 
 
+## Day 24 : 5-09-2020
 
+**Today's Progress** : :Learnt how to use argparse module to parse arguments for the command line to a python file
 
 
 
