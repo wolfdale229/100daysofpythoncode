@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 files/
 _files_bak/
+workout/01_hello/__pycache__/
+workout/__pycache__/
