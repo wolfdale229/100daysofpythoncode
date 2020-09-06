@@ -1,3 +1,5 @@
-import sys
+"""Making a test fail"""
 
-print(f'Program argument {sys.argv}')
+def test_failing()-> None:
+    """This test should fail"""
+    assert (1, 2, 3) == (3, 2, 1)
