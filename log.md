@@ -118,11 +118,17 @@ The following resources would be used through out the 100 days    :
 
 ## Day 24 : 5-09-2020
 
-**Today's Progress** : :Learnt how to use argparse module to parse arguments for the command line to a python file
+**Today's Progress** : Learnt how to use argparse module to parse arguments for the command line to a python file
 
+## Day 25 : 6-09-2020
 
+**Today's Progress** : Learning how to test
 
+## Start learnig algorithms and data structure with python 
 
+## Day 26 : 7-09-2020
+
+**Today's Progress** : Overview of algorithms, binary search,  big O'notation
 
 
 
