@@ -154,6 +154,10 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : working on some python exercises
 
+## Day 33 : 15-09-2020
+
+**Today's Progress** :Built a automation script for luanching my app (luanchit)
+
 ## Day 34 : 16-09-2020
 
 **Today's Progress** : Learning about quicksort algorithm
