@@ -10,7 +10,8 @@ def get_args()-> str:
 
 def main() -> None:
     word = get_args()
-    print(f"Ahoy captian {word}")
+    article = 'an' if word[0].lower() in ['a', 'e', 'i', 'o', 'u'] else 'a'
+    print(f"Ahoy, Captain, {article} {word} off the larboard bow!")
 
 
 if __name__ == '__main__':

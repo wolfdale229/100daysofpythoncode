@@ -130,6 +130,46 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Overview of algorithms, binary search,  big O'notation
 
+## Day 27 : 9-09-2020
+
+** Today's Progress** : python exercise, selection sort algorithm
+
+## Day 28 : 10-09-2020
+
+** Today's Progress** : working on a python exercise (working with test and strings)
+
+## Day 29 : 11-09-2020
+ 
+** Today's Progress** : working on a python exercise 
+
+## Day 30 : 12-09-2020
+
+**Today's Progress** : Built a simple script called coffee
+
+## Day 31 : 13-09-2020                                   
+
+**Today's Progress** : Learnt about recursion algorithm
+
+## Day 32 : 14-09-2020                                    
+
+**Today's Progress** : working on some python exercises
+
+## Day 34 : 16-09-2020
+
+**Today's Progress** : Learning about quicksort algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
