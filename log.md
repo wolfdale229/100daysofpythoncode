@@ -162,7 +162,13 @@ The following resources would be used through out the 100 days    :
 
 **Today's Progress** : Learning about quicksort algorithm
 
+## Day 35 : 17-09-2020
 
+**Today's Progress** : Learning about hash tables
+
+## Day 36 : 19-09-2020
+
+**Today's Progress** : Learning about graphs
 
 
 
