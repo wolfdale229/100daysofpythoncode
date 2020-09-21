@@ -168,11 +168,17 @@ The following resources would be used through out the 100 days    :
 
 ## Day 36 : 19-09-2020
 
-**Today's Progress** : Learning about graphs
+**Today's Progress** : Learning about breadth-first search
 
+## Day 37 : 20-09-2020
 
+**Today's Progress** : Leaning about Dijkstra’s algorithm
 
+## next book on algorithms and data structure
 
+## Day 38 : 21-09-2020
+
+**Today's Progress** : Python primer on classes
 
 
 
